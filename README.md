@@ -1,2 +1,2 @@
 # HMS
-Hospital Management System
+Hospital Management System created by using C++
